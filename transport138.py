@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 """
+This file is a work in progress, some areas require further implementation and optimization.
+Over the next few weeks this file will continue to have better optimizations, and stronger 
+functional logic connected to it's underlying geometry.
+
 Recursive twin-prime-center transport.
 
 The program has three mathematical layers:

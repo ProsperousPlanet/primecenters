@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 This file is a work in progress, some areas require further implementation and optimization.
-Over the next few weeks this file will continue to have better optimizations, and stronger 
-functional logic connected to it's underlying geometry.
+Currently some important proof worthy functionality has been removed in favor of optimized code,
+working on reimplementing the proof worthy geometry and logic. 
+
 
 Recursive twin-prime-center transport.
 
